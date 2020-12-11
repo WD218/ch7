@@ -1,0 +1,5 @@
+﻿  main.c
+c:\c_code\lab7-1\source\main.c(20): warning C4129: 'g': 無法辨識的字元逸出序列
+c:\c_code\lab7-1\source\main.c(21): warning C4129: 'g': 無法辨識的字元逸出序列
+c:\c_code\lab7-1\source\main.c(38): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  lab7-1.vcxproj -> C:\C_code\lab7-1\lab7-1\Debug\lab7-1.exe
